@@ -6,7 +6,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 class EnemyTest {
 
-    
+
     /**
      * 「死んでる状態では攻撃できない」ことを確認。
      */
